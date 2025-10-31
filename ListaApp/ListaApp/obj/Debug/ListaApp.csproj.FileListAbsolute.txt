@@ -1,0 +1,10 @@
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\bin\Debug\ListaApp.exe.config
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\bin\Debug\ListaApp.exe
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\bin\Debug\ListaApp.pdb
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.csproj.AssemblyReference.cache
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.Form1.resources
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.Properties.Resources.resources
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.csproj.GenerateResource.cache
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.exe
+C:\Users\rolan\Imágenes\ListaApp\ListaApp\obj\Debug\ListaApp.pdb

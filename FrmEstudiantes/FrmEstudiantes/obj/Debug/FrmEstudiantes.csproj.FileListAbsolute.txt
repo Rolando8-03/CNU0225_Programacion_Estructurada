@@ -1,0 +1,5 @@
+C:\Users\rolan\Imágenes\FrmEstudiantes\FrmEstudiantes\obj\Debug\FrmEstudiantes.csproj.AssemblyReference.cache
+C:\Users\rolan\Imágenes\FrmEstudiantes\FrmEstudiantes\obj\Debug\FrmEstudiantes.Estudiante.resources
+C:\Users\rolan\Imágenes\FrmEstudiantes\FrmEstudiantes\obj\Debug\FrmEstudiantes.Properties.Resources.resources
+C:\Users\rolan\Imágenes\FrmEstudiantes\FrmEstudiantes\obj\Debug\FrmEstudiantes.csproj.GenerateResource.cache
+C:\Users\rolan\Imágenes\FrmEstudiantes\FrmEstudiantes\obj\Debug\FrmEstudiantes.csproj.CoreCompileInputs.cache
