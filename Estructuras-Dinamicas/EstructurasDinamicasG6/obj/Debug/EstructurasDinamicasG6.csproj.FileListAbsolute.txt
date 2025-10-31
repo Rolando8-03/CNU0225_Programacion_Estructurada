@@ -1,0 +1,11 @@
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\bin\Debug\EstructurasDinamicasG6.exe.config
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\bin\Debug\EstructurasDinamicasG6.exe
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\bin\Debug\EstructurasDinamicasG6.pdb
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.csproj.AssemblyReference.cache
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.FrmPilaRM.resources
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.Properties.Resources.resources
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.csproj.GenerateResource.cache
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.exe
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.pdb
+C:\Users\rolan\Source\Repos\Estructuras-Dinamicas\EstructurasDinamicasG6\obj\Debug\EstructurasDinamicasG6.exe.config
