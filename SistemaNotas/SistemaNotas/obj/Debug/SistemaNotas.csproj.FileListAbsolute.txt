@@ -1,0 +1,12 @@
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe.config
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.pdb
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.AssemblyReference.cache
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Form1.resources
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Properties.Resources.resources
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Vista.FrmCarrera.resources
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.GenerateResource.cache
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.exe
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.pdb
+C:\Users\Rolando8_03\Videos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.exe.config
