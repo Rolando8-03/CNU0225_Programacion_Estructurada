@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imprimir_numeros", "imprimir_numeros\imprimir_numeros.csproj", "{DA567713-1D72-D2AB-FB25-1500DBCFE87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA567713-1D72-D2AB-FB25-1500DBCFE87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA567713-1D72-D2AB-FB25-1500DBCFE87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA567713-1D72-D2AB-FB25-1500DBCFE87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA567713-1D72-D2AB-FB25-1500DBCFE87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985EC6F1-07AB-4A2F-B5D4-18B9556C3C95}
+	EndGlobalSection
+EndGlobal

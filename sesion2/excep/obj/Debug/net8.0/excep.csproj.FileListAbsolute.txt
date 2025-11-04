@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\Semana2\sesion2\excep\bin\Debug\net8.0\excep.exe
+C:\Users\rolan\Documents\Semana2\sesion2\excep\bin\Debug\net8.0\excep.deps.json
+C:\Users\rolan\Documents\Semana2\sesion2\excep\bin\Debug\net8.0\excep.runtimeconfig.json
+C:\Users\rolan\Documents\Semana2\sesion2\excep\bin\Debug\net8.0\excep.dll
+C:\Users\rolan\Documents\Semana2\sesion2\excep\bin\Debug\net8.0\excep.pdb
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.AssemblyInfo.cs
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.dll
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\refint\excep.dll
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.pdb
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\excep.genruntimeconfig.cache
+C:\Users\rolan\Documents\Semana2\sesion2\excep\obj\Debug\net8.0\ref\excep.dll

@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\bin\Debug\net9.0\numero_mayor.exe
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\bin\Debug\net9.0\numero_mayor.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\bin\Debug\net9.0\numero_mayor.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\bin\Debug\net9.0\numero_mayor.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\bin\Debug\net9.0\numero_mayor.pdb
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\refint\numero_mayor.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.pdb
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\numero_mayor.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_mayor\obj\Debug\net9.0\ref\numero_mayor.dll

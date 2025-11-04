@@ -1,0 +1,15 @@
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\bin\Debug\net9.0\temperatura.exe
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\bin\Debug\net9.0\temperatura.deps.json
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\bin\Debug\net9.0\temperatura.runtimeconfig.json
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\bin\Debug\net9.0\temperatura.dll
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\bin\Debug\net9.0\temperatura.pdb
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.AssemblyInfo.cs
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.sourcelink.json
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.dll
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\refint\temperatura.dll
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.pdb
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\temperatura.genruntimeconfig.cache
+C:\Users\rolan\Documents\Ejercicios-Semana-3\temperatura\obj\Debug\net9.0\ref\temperatura.dll

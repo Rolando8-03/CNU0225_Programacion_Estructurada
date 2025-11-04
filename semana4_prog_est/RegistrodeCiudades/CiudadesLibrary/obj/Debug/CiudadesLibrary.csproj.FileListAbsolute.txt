@@ -1,0 +1,12 @@
+C:\Users\rolan\source\repos\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.dll
+C:\Users\rolan\source\repos\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.pdb
+C:\Users\rolan\source\repos\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.dll
+C:\Users\rolan\source\repos\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.pdb
+C:\Users\rolan\Documents\semana4_prog_est\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.dll
+C:\Users\rolan\Documents\semana4_prog_est\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.pdb
+C:\Users\rolan\Documents\semana4_prog_est\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.AssemblyReference.cache
+C:\Users\rolan\Documents\semana4_prog_est\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana4_prog_est\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.dll
+C:\Users\rolan\Documents\semana4_prog_est\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.pdb

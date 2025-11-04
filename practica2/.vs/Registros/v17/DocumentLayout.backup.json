@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rolando8_03\\Documents\\practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|c:\\users\\rolando8_03\\documents\\practica2\\productos\\formularios\\frmarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\formularios\\frmarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|C:\\Users\\Rolando8_03\\Documents\\practica2\\productos\\dao\\edaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\dao\\edaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|C:\\Users\\Rolando8_03\\Documents\\practica2\\productos\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|C:\\Users\\Rolando8_03\\Documents\\practica2\\productos\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|C:\\Users\\Rolando8_03\\Documents\\practica2\\productos\\formularios\\frmarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\formularios\\frmarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|C:\\Users\\Rolando8_03\\Documents\\practica2\\productos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|C:\\Users\\Rolando8_03\\Documents\\practica2\\productos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{344490A6-DD22-4B67-8C6D-7D4EB4B54729}|Productos\\Productos.csproj|solutionrelative:productos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Productos\\Formularios\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "Productos\\Formularios\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:27:46.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EdadDao.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Dao\\EdadDao.cs",
+              "RelativeDocumentMoniker": "Productos\\Dao\\EdadDao.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Dao\\EdadDao.cs",
+              "RelativeToolTip": "Productos\\Dao\\EdadDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:18:18.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Productos\\Formularios\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmPrincipal.cs",
+              "RelativeToolTip": "Productos\\Formularios\\FrmPrincipal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:27:58.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmArreglo.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmArreglo.cs",
+              "RelativeDocumentMoniker": "Productos\\Formularios\\FrmArreglo.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmArreglo.cs",
+              "RelativeToolTip": "Productos\\Formularios\\FrmArreglo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:21:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmArreglo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmArreglo.cs",
+              "RelativeDocumentMoniker": "Productos\\Formularios\\FrmArreglo.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Formularios\\FrmArreglo.cs [Design]",
+              "RelativeToolTip": "Productos\\Formularios\\FrmArreglo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:08:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Login.cs",
+              "RelativeDocumentMoniker": "Productos\\Login.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Login.cs",
+              "RelativeToolTip": "Productos\\Login.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:36:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Documents\\practica2\\Productos\\Login.cs",
+              "RelativeDocumentMoniker": "Productos\\Login.cs",
+              "ToolTip": "C:\\Users\\rolan\\source\\repos\\Registros-ProgEst\\Productos\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\rolan\\source\\repos\\Registros-ProgEst\\Productos\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:36:28.828Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

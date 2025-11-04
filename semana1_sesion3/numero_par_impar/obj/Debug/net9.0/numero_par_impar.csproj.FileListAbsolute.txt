@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\bin\Debug\net9.0\numero_par_impar.exe
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\bin\Debug\net9.0\numero_par_impar.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\bin\Debug\net9.0\numero_par_impar.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\bin\Debug\net9.0\numero_par_impar.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\bin\Debug\net9.0\numero_par_impar.pdb
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\refint\numero_par_impar.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.pdb
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\numero_par_impar.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_par_impar\obj\Debug\net9.0\ref\numero_par_impar.dll

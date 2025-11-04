@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\bin\Debug\net9.0\menu_opciones.exe
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\bin\Debug\net9.0\menu_opciones.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\bin\Debug\net9.0\menu_opciones.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\bin\Debug\net9.0\menu_opciones.dll
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\bin\Debug\net9.0\menu_opciones.pdb
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.dll
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\refint\menu_opciones.dll
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.pdb
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\menu_opciones.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\menu_opciones\obj\Debug\net9.0\ref\menu_opciones.dll

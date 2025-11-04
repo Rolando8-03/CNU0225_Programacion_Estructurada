@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\bin\Debug\net9.0\dias_semanas.exe
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\bin\Debug\net9.0\dias_semanas.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\bin\Debug\net9.0\dias_semanas.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\bin\Debug\net9.0\dias_semanas.dll
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\bin\Debug\net9.0\dias_semanas.pdb
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.dll
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\refint\dias_semanas.dll
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.pdb
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\dias_semanas.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\dias_semanas\obj\Debug\net9.0\ref\dias_semanas.dll

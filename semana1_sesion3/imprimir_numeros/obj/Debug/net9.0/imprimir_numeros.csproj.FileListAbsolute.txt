@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\bin\Debug\net9.0\imprimir_numeros.exe
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\bin\Debug\net9.0\imprimir_numeros.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\bin\Debug\net9.0\imprimir_numeros.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\bin\Debug\net9.0\imprimir_numeros.dll
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\bin\Debug\net9.0\imprimir_numeros.pdb
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.dll
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\refint\imprimir_numeros.dll
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.pdb
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\imprimir_numeros.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\imprimir_numeros\obj\Debug\net9.0\ref\imprimir_numeros.dll

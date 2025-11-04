@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiudadesLibrary", "CiudadesLibrary\CiudadesLibrary.csproj", "{8E81B4BF-8B5D-4B2B-9BE7-7B250D958664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiudadesApp", "CiudadesApp\CiudadesApp.csproj", "{AD8FD2EF-A074-4815-A0FE-70F07D8B5D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E81B4BF-8B5D-4B2B-9BE7-7B250D958664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E81B4BF-8B5D-4B2B-9BE7-7B250D958664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E81B4BF-8B5D-4B2B-9BE7-7B250D958664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E81B4BF-8B5D-4B2B-9BE7-7B250D958664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8FD2EF-A074-4815-A0FE-70F07D8B5D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8FD2EF-A074-4815-A0FE-70F07D8B5D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8FD2EF-A074-4815-A0FE-70F07D8B5D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8FD2EF-A074-4815-A0FE-70F07D8B5D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {291E07C8-8B34-4AD5-9928-B2722766C2D4}
+	EndGlobalSection
+EndGlobal

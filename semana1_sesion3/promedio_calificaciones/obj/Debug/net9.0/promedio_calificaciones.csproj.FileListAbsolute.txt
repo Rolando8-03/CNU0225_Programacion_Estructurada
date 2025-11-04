@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\bin\Debug\net9.0\promedio_calificaciones.exe
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\bin\Debug\net9.0\promedio_calificaciones.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\bin\Debug\net9.0\promedio_calificaciones.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\bin\Debug\net9.0\promedio_calificaciones.dll
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\bin\Debug\net9.0\promedio_calificaciones.pdb
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.dll
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\refint\promedio_calificaciones.dll
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.pdb
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\promedio_calificaciones.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\promedio_calificaciones\obj\Debug\net9.0\ref\promedio_calificaciones.dll

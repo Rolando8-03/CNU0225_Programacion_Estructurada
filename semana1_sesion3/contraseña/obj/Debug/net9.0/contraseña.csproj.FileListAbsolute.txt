@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\bin\Debug\net9.0\contraseña.exe
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\bin\Debug\net9.0\contraseña.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\bin\Debug\net9.0\contraseña.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\bin\Debug\net9.0\contraseña.dll
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\bin\Debug\net9.0\contraseña.pdb
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.dll
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\refint\contraseña.dll
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.pdb
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\contraseña.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\contraseña\obj\Debug\net9.0\ref\contraseña.dll

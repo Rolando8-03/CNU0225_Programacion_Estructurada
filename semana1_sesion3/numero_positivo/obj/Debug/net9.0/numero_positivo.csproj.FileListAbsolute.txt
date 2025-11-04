@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\bin\Debug\net9.0\numero_positivo.exe
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\bin\Debug\net9.0\numero_positivo.deps.json
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\bin\Debug\net9.0\numero_positivo.runtimeconfig.json
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\bin\Debug\net9.0\numero_positivo.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\bin\Debug\net9.0\numero_positivo.pdb
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.AssemblyInfo.cs
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\refint\numero_positivo.dll
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.pdb
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\numero_positivo.genruntimeconfig.cache
+C:\Users\rolan\Documents\semana1_sesion3\numero_positivo\obj\Debug\net9.0\ref\numero_positivo.dll
