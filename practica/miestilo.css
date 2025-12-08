@@ -1,0 +1,17 @@
+*{
+    background: #4184ba;
+    color: #ffffff;
+    text-align: center;
+}
+h1{
+    background: #ffffff;
+    color: #f50a0a;
+}
+h1:hover{
+    color: #0af5f5;
+    background: #000000;
+    font-size: 2rem;
+}
+.container{
+    background: #ffffff;
+}

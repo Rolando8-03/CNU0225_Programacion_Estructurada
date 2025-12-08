@@ -1,0 +1,42 @@
+using System;
+
+class NumeroEnRango
+{
+    static void Main(string[] args)
+    {
+        int numero = LeerNumero();
+        VerificarRango(numero);
+
+        Console.ReadKey();
+    }
+
+    // Función para leer y validar número
+    static int LeerNumero()
+    {
+        int num;
+        string entrada;
+
+        while (true)
+        {
+            Console.Write("Ingrese un número: ");
+            entrada = Console.ReadLine();
+
+            if (!int.TryParse(entrada, out num))
+            {
+                Console.WriteLine("Error: ingrese un número válido.\n");
+                continue;
+            }
+
+            return num;
+        }
+    }
+
+    // Función para verificar si está entre 1 y 100
+    static void VerificarRango(int n)
+    {
+        if (n >= 1 && n <= 100)
+            Console.WriteLine($"\nEl número {n} está dentro del rango 1–100.");
+        else
+            Console.WriteLine($"\nEl número {n} NO está dentro del rango 1–100.");
+    }
+}

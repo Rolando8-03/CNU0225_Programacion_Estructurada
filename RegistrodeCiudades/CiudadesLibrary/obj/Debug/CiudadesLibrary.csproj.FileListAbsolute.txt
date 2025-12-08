@@ -1,0 +1,6 @@
+C:\Users\rolan\documents\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.dll
+C:\Users\rolan\documents\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.pdb
+C:\Users\rolan\documents\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.AssemblyReference.cache
+C:\Users\rolan\documents\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rolan\documents\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.dll
+C:\Users\rolan\documents\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\rolan\Imágenes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe.config

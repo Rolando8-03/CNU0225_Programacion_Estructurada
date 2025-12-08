@@ -1,0 +1,11 @@
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.exe.config
+C:\Users\Rolando8_03\Documents\FrmPrincipal\FrmPrincipal\obj\Debug\FrmPrincipal.FrmMenuPrincipal.resources

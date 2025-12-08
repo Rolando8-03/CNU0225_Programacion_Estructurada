@@ -1,0 +1,15 @@
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\bin\Debug\PracticaOrdenamientos.exe.config
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\bin\Debug\PracticaOrdenamientos.exe
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\bin\Debug\PracticaOrdenamientos.pdb
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.csproj.AssemblyReference.cache
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.BubbleSortForm.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.Form1.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.InsertionSortForm.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.MergeSortForm.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.Properties.Resources.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.QuickSortForm.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.SelectionSortForm.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.csproj.GenerateResource.cache
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.exe
+C:\Users\rolan\Documents\PracticaOrdenamiento\PracticaOrdenamientos\PracticaOrdenamientos\obj\Debug\PracticaOrdenamientos.pdb

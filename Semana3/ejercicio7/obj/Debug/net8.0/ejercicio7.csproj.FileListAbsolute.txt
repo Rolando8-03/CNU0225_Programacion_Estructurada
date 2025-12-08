@@ -1,0 +1,14 @@
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.AssemblyInfo.cs
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\bin\Debug\net8.0\ejercicio7.exe
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\bin\Debug\net8.0\ejercicio7.deps.json
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\bin\Debug\net8.0\ejercicio7.runtimeconfig.json
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\bin\Debug\net8.0\ejercicio7.dll
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\bin\Debug\net8.0\ejercicio7.pdb
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.dll
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\refint\ejercicio7.dll
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.pdb
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ejercicio7.genruntimeconfig.cache
+C:\Users\rolan\Documents\programacion_estructurada\Semana3\ejercicio7\obj\Debug\net8.0\ref\ejercicio7.dll

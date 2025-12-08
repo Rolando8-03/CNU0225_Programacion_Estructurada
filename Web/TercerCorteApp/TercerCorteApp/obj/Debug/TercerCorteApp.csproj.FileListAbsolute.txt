@@ -1,0 +1,10 @@
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\bin\Debug\TercerCorteApp.exe.config
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\bin\Debug\TercerCorteApp.exe
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\bin\Debug\TercerCorteApp.pdb
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.csproj.AssemblyReference.cache
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.Form1.resources
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.Properties.Resources.resources
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.csproj.GenerateResource.cache
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.exe
+C:\Users\rolan\Documents\TercerCorteApp\TercerCorteApp\obj\Debug\TercerCorteApp.pdb

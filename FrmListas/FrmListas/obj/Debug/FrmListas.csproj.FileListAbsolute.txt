@@ -1,0 +1,11 @@
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\bin\Debug\FrmListas.exe.config
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\bin\Debug\FrmListas.exe
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\bin\Debug\FrmListas.pdb
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.csproj.AssemblyReference.cache
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.Form1.resources
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.Properties.Resources.resources
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.csproj.GenerateResource.cache
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.exe
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.pdb
+C:\Users\rolan\Imágenes\FrmListas\FrmListas\obj\Debug\FrmListas.exe.config

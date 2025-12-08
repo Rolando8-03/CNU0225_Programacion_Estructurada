@@ -1,0 +1,66 @@
+using System;
+
+class ListaTemperaturas
+{
+    static void Main(string[] args)
+    {
+        double[] lista = LeerLista();
+        ConvertirLista(lista);
+
+        Console.ReadKey();
+    }
+
+    // Función para leer la lista de temperaturas
+    static double[] LeerLista()
+    {
+        int cantidad;
+        string entrada;
+
+        while (true)
+        {
+            Console.Write("¿Cuántas temperaturas desea convertir?: ");
+            entrada = Console.ReadLine();
+
+            if (!int.TryParse(entrada, out cantidad) || cantidad <= 0)
+            {
+                Console.WriteLine("Error: Ingrese un número entero positivo.\n");
+                continue;
+            }
+
+            break;
+        }
+
+        double[] datos = new double[cantidad];
+
+        for (int i = 0; i < cantidad; i++)
+        {
+            while (true)
+            {
+                Console.Write($"Ingrese la temperatura #{i + 1} en Celsius: ");
+                entrada = Console.ReadLine();
+
+                if (!double.TryParse(entrada, out datos[i]))
+                {
+                    Console.WriteLine("Error: Ingrese un valor válido.\n");
+                    continue;
+                }
+
+                break;
+            }
+        }
+
+        return datos;
+    }
+
+    // Función para convertir y mostrar la lista
+    static void ConvertirLista(double[] lista)
+    {
+        Console.WriteLine("\nTemperaturas convertidas a Fahrenheit:");
+
+        foreach (double c in lista)
+        {
+            double f = (c * 9 / 5) + 32;
+            Console.WriteLine($"{c} °C = {f} °F");
+        }
+    }
+}

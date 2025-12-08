@@ -1,0 +1,7 @@
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\bin\Debug\BusquedaTexto.exe.config
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\bin\Debug\BusquedaTexto.exe
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\bin\Debug\BusquedaTexto.pdb
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\obj\Debug\BusquedaTexto.csproj.AssemblyReference.cache
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\obj\Debug\BusquedaTexto.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\obj\Debug\BusquedaTexto.exe
+C:\Users\rolan\Documents\PracticaIndividual\BusquedaTexto\BusquedaTexto\obj\Debug\BusquedaTexto.pdb

@@ -1,0 +1,10 @@
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\bin\Debug\AnálisisProg.exe.config
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\bin\Debug\AnálisisProg.exe
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\bin\Debug\AnálisisProg.pdb
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.csproj.AssemblyReference.cache
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.Form1.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.Properties.Resources.resources
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.csproj.GenerateResource.cache
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.exe
+C:\Users\rolan\Documents\PracticaOrdenamiento\AnálisisProg\AnálisisProg\obj\Debug\AnálisisProg.pdb

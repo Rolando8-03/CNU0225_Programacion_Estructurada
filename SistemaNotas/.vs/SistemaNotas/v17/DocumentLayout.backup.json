@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\controlador\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\controlador\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\rolando8_03\\videos\\practica_31-10\\sistemanotas\\sistemanotas\\vista\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\vista\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\vista\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\vista\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\rolando8_03\\videos\\practica_31-10\\sistemanotas\\sistemanotas\\vista\\frmdocentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\vista\\frmdocentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\vista\\frmdocentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\vista\\frmdocentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\controlador\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\controlador\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\controlador\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\controlador\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\modelos\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\modelos\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\vista\\frmcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\modelos\\docentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\modelos\\docentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SistemaNotas||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CD6A7-FE12-44AE-A754-5AAE62DFC4BB}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDocentes.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmDocentes.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Vista\\FrmDocentes.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmDocentes.cs",
+              "RelativeToolTip": "SistemaNotas\\Vista\\FrmDocentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:00:38.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEstudiantes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmEstudiantes.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Vista\\FrmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmEstudiantes.cs [Design]",
+              "RelativeToolTip": "SistemaNotas\\Vista\\FrmEstudiantes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:10:58.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmEstudiantes.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Vista\\FrmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmEstudiantes.cs",
+              "RelativeToolTip": "SistemaNotas\\Vista\\FrmEstudiantes.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:27:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Controlador\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Controlador\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Controlador\\EstudiantesController.cs",
+              "RelativeToolTip": "SistemaNotas\\Controlador\\EstudiantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:19:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmCarrera.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Vista\\FrmCarrera.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmCarrera.cs",
+              "RelativeToolTip": "SistemaNotas\\Vista\\FrmCarrera.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wEEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:48:22.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDocentes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmDocentes.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Vista\\FrmDocentes.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmDocentes.cs [Design]",
+              "RelativeToolTip": "SistemaNotas\\Vista\\FrmDocentes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:11:15.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocentesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Controlador\\DocentesController.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Controlador\\DocentesController.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Controlador\\DocentesController.cs",
+              "RelativeToolTip": "SistemaNotas\\Controlador\\DocentesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:18:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarreraController.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Controlador\\CarreraController.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Controlador\\CarreraController.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Controlador\\CarreraController.cs",
+              "RelativeToolTip": "SistemaNotas\\Controlador\\CarreraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:50:47.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Modelos\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Modelos\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Modelos\\Estudiantes.cs",
+              "RelativeToolTip": "SistemaNotas\\Modelos\\Estudiantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:12:00.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCarrera.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmCarrera.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Vista\\FrmCarrera.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Vista\\FrmCarrera.cs [Design]",
+              "RelativeToolTip": "SistemaNotas\\Vista\\FrmCarrera.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:30:45.585Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Modelos\\Carrera.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Modelos\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Modelos\\Carrera.cs",
+              "RelativeToolTip": "SistemaNotas\\Modelos\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:50:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Docentes.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Modelos\\Docentes.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Modelos\\Docentes.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Modelos\\Docentes.cs",
+              "RelativeToolTip": "SistemaNotas\\Modelos\\Docentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:11:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeToolTip": "SistemaNotas\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:30:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\rolan\\Documents\\CNU0225_Programacion_Estructurada\\SistemaNotas\\SistemaNotas\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\rolan\\Documents\\CNU0225_Programacion_Estructurada\\SistemaNotas\\SistemaNotas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:24:53.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SistemaNotas",
+              "DocumentMoniker": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj",
+              "RelativeDocumentMoniker": "SistemaNotas\\SistemaNotas.csproj",
+              "ToolTip": "C:\\Users\\Rolando8_03\\Videos\\Practica_31-10\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj",
+              "RelativeToolTip": "SistemaNotas\\SistemaNotas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-29T15:44:36.718Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

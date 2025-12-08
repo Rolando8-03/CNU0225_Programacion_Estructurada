@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF01F91-2380-4E90-BE06-D6A12D905F2D}|CiudadesLibrary\\CiudadesLibrary.csproj|c:\\users\\rolan\\documents\\registrodeciudades\\ciudadeslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF01F91-2380-4E90-BE06-D6A12D905F2D}|CiudadesLibrary\\CiudadesLibrary.csproj|solutionrelative:ciudadeslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF01F91-2380-4E90-BE06-D6A12D905F2D}|CiudadesLibrary\\CiudadesLibrary.csproj|c:\\users\\rolan\\documents\\registrodeciudades\\ciudadeslibrary\\modelos\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF01F91-2380-4E90-BE06-D6A12D905F2D}|CiudadesLibrary\\CiudadesLibrary.csproj|solutionrelative:ciudadeslibrary\\modelos\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF01F91-2380-4E90-BE06-D6A12D905F2D}|CiudadesLibrary\\CiudadesLibrary.csproj|c:\\users\\rolan\\documents\\registrodeciudades\\ciudadeslibrary\\dao\\ciudaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF01F91-2380-4E90-BE06-D6A12D905F2D}|CiudadesLibrary\\CiudadesLibrary.csproj|solutionrelative:ciudadeslibrary\\dao\\ciudaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D57E6C7-68AE-404F-A794-4365FC9E7BA0}|CiudadesApp\\CiudadesApp.csproj|c:\\users\\rolan\\documents\\registrodeciudades\\ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D57E6C7-68AE-404F-A794-4365FC9E7BA0}|CiudadesApp\\CiudadesApp.csproj|solutionrelative:ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D57E6C7-68AE-404F-A794-4365FC9E7BA0}|CiudadesApp\\CiudadesApp.csproj|c:\\users\\rolan\\documents\\registrodeciudades\\ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D57E6C7-68AE-404F-A794-4365FC9E7BA0}|CiudadesApp\\CiudadesApp.csproj|solutionrelative:ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CiudadesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesApp\\Form1.cs",
+              "RelativeToolTip": "CiudadesApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:41:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CiudadesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CiudadesApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:37:22.68Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CiudadDAO.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesLibrary\\DAO\\CiudadDAO.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary\\DAO\\CiudadDAO.cs",
+              "ToolTip": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesLibrary\\DAO\\CiudadDAO.cs",
+              "RelativeToolTip": "CiudadesLibrary\\DAO\\CiudadDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:35:53.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "RelativeToolTip": "CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:35:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\rolan\\Documents\\RegistrodeCiudades\\CiudadesLibrary\\Class1.cs",
+              "RelativeToolTip": "CiudadesLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:34:47.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
